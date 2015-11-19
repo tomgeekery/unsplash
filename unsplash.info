@@ -1,0 +1,5 @@
+name = Unsplash service
+description = Integrates the unsplash service with the dummyimage module.
+core = 7.x
+package = Dummy image
+dependencies[] = dummyimage
